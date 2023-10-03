@@ -1,0 +1,15 @@
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.csproj.AssemblyReference.cache
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.AssemblyInfoInputs.cache
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.AssemblyInfo.cs
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.csproj.CoreCompileInputs.cache
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/bin/Debug/net7.0/ClimbyBird
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/bin/Debug/net7.0/ClimbyBird.deps.json
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/bin/Debug/net7.0/ClimbyBird.runtimeconfig.json
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/bin/Debug/net7.0/ClimbyBird.dll
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/bin/Debug/net7.0/ClimbyBird.pdb
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.dll
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/refint/ClimbyBird.dll
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.pdb
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ClimbyBird.genruntimeconfig.cache
+/Users/onwa/vsCodeProjects/SIT771/ClimbyBird/obj/Debug/net7.0/ref/ClimbyBird.dll
